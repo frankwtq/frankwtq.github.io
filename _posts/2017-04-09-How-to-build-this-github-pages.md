@@ -2,7 +2,7 @@
 layout: post
 title: Github Pages 学习笔记
 category : Intro
-tags: [github pages, tag1, tag2]
+tags: [github_pages]
 ---
 
 # 记录学习github pages的笔记
