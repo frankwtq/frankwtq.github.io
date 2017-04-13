@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll Theme - Project Gaia
 category : Intro
-tags : [intro, tag1, tag2]
+tags : [intro]
 stickie: true
 ---
 ## Updated History
