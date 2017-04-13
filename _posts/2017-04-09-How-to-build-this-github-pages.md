@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Github Pages 学习笔记
-category : Intro
+category : 学习笔记
 tags: [github_pages]
 stickie: true
 ---
