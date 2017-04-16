@@ -31,3 +31,5 @@ gems: [jekyll-paginate]
 markdown: kramdown
 # toc_levels: 1..2
 
+baidu-analysis: <script>var _hmt = _hmt || [];(function() {var hm = document.createElement("script");hm.src = "https://hm.baidu.com/hm.js?b0d1eda0689eddccac5e6c1ca1ec5857";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(hm, s);})();</script>
+
