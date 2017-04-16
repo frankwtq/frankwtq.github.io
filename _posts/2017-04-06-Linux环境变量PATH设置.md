@@ -1,3 +1,12 @@
+---
+layout: post
+title: Linux环境变量PATH设置
+category : 学习笔记
+tags: [Linux]
+stickie: true
+---
+
+
 #Linux环境变量PATH设置
 
 * 由来：安装RVM时，由于使用的是zsh的shell，所以需要设置环境变量才能正常启动RVM。所以了解了一下Linux中环境变量的设置，以便后面再遇到类似的问题能够很快解决。
@@ -47,7 +56,7 @@
   
 * 显示所有本地定义的Shell变量   
   
-··· ￥ set ```  
+``` ￥ set ```  
   
 * 清除环境变量  
   
