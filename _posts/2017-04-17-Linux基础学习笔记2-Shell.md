@@ -7,7 +7,7 @@ stickie: true
 ---
 
 
-#Linux基础学习笔记2 Shell
+#Linux基础学习笔记2 Shelll
 
 这是Linux基础学习笔记的第二部分，主要介绍Shell。上一部分为[Linux基础学习笔记1](https://frankwtq.github.io/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/2017/04/16/Linux%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01.html)
 ## 参考资料
